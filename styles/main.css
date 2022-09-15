@@ -27,3 +27,7 @@ img{
 main{
     clear: left;
 }
+header h3{
+    margin: 3em;
+    font-size: 105%;
+}
