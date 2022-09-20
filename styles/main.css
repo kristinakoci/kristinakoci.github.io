@@ -30,7 +30,8 @@ header h2{
 }
 img{
     float: left;
-    margin-right: 15px auto;
+    margin-right: 2em;
+    margin-left: 15em;
 
 }
 .shadow{
