@@ -5,7 +5,7 @@ html{
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-    width: 1000px;
+    width: 90%;
     margin-left: 10px;
     background-color: white; 
     margin: 15px auto;
@@ -53,4 +53,13 @@ article img{
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
+}
+article p::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: lightgreen;
+}
+aside {
+
 }
