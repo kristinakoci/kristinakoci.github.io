@@ -24,7 +24,7 @@ header h1{
     font-size: 175%;
     color: maroon;
     text-indent: 30px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid maroon;
 }
 header h2{
     font-size: 130%;
@@ -86,7 +86,5 @@ p.fixed{
     right: 0;
     border: 3px solid darkgreen;
     background-color: lightgreen;
-    padding: 1em 1em 1em 1em;
-
-
+    padding: 2em 2em 2em;
 }
