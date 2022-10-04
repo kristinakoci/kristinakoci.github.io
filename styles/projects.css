@@ -39,6 +39,7 @@ img{
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 article{
+    clear: left;
     width: 70%;
     float: left;
     column-count: 2;
