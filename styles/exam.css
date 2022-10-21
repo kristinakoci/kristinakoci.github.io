@@ -31,14 +31,13 @@ body {
     background-color: white; 
     margin: 15px auto;
     padding: 15px 1.5rem;
-    border: 1px solid black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
 
 article {
     clear: left;
-    padding-top: 3em;
+    padding-top: 5em;
     width: 75%;
     border-top: 3px solid blue;
 }
@@ -78,5 +77,10 @@ aside{
 footer{
     clear: both;
     border-top: 2px solid blue;
+}
+
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
 }
 
