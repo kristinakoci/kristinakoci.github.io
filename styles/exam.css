@@ -58,7 +58,7 @@ aside{
     width: 20%;
     padding: 2em 2em 2em;
     background-color: #9bddf4;
-    border-color: 3px solid blue;
+    border: 3px solid blue;
     position: fixed;
     right: 0;
     bottom: 15%;
