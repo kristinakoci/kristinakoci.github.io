@@ -31,7 +31,7 @@ body {
     background-color: white; 
     margin: 15px auto;
     padding: 15px 1.5rem;
-    border: 1px, solid rgb(48, 47, 47);
+    border: 2px, solid rgb(48, 47, 47);
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
