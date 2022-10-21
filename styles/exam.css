@@ -42,6 +42,9 @@ article {
     width: 75%;
     border-top: 3px solid blue;
 }
+article h1{
+    column-span: all;
+}
 img{
     float: left;
     margin: 2em;
