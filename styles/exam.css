@@ -34,12 +34,14 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
+nav{
+    border-top: 3px solid blue;
+}
 
 article {
     clear: left;
     padding-top: 5em;
     width: 75%;
-    border-top: 3px solid blue;
 }
 article h1{
     column-span: all;
