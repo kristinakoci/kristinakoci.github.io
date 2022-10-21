@@ -65,7 +65,8 @@ header h2{
 }
 img{
     float: left;
-    margin: 2em;
+    margin-right: 1em;
+    margin-left: 1em;
 }
 article{
     clear: left;
