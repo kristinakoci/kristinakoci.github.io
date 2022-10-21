@@ -35,9 +35,8 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
-nav{
-    border-bottom: 3px solid blue;
-    padding-bottom: 5em;
+#nav.menu{
+    border-bottom: 2px solid blue;
     
 }
 
@@ -86,7 +85,7 @@ article p::first-letter{
 }
 
 aside{
-    width: 15%;
+    width: 20%;
     padding: 2em 2em 2em;
     background-color: #9bddf4;
     border: 3px solid blue;
