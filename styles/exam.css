@@ -27,7 +27,7 @@ body {
     font-size: 100%;
     width: 95%;
     margin: 15px auto;
-    padding-bottom: 0.9em;
+    padding-bottom: 3em;
     background-color: white; 
     margin: 15px auto;
     padding: 15px 1.5rem;
@@ -37,12 +37,13 @@ body {
 }
 nav{
     border-bottom: 3px solid blue;
-    padding-bottom: 3em;
+    padding-bottom: 5em;
     
 }
 
 article {
-    clear: left;
+    clear: right;
+    padding-top: 3em;
     width: 75%;
     float: left;
     column-count: 3;
@@ -55,8 +56,9 @@ article p.indent {
     float: left;
 }
 article h1{
-    padding-top: 0.5em;
-    padding-bottom: 1em;
+    column-span: all;
+    padding-top: 1em;
+    padding-bottom: 2em;
 }
 
 article h1{
@@ -85,7 +87,7 @@ article p::first-letter{
 
 aside{
     width: 20%;
-    padding: 0.5em 0.5em 0.5em;
+    padding: 2em 2em 2em;
     background-color: #9bddf4;
     border: 3px solid blue;
     position: fixed;
