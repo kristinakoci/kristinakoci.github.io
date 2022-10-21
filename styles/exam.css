@@ -45,6 +45,11 @@ article {
     clear: right;
     padding-top: 3em;
     width: 75%;
+    float: left;
+    column-count: 3;
+    column-rule: 3px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
 }
 article h1{
     column-span: all;
@@ -68,15 +73,7 @@ img{
     margin-right: 1em;
     margin-left: 1em;
 }
-article{
-    clear: left;
-    width: 75%;
-    float: left;
-    column-count: 3;
-    column-rule: 3px dotted blue;
-    column-gap: 2em;
-    margin-left: 2em;
-}
+
 article p::first-letter{
     font-size: 3em;
     font-weight: bold;
