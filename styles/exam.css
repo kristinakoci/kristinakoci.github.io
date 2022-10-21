@@ -42,8 +42,7 @@ nav{
 }
 
 article {
-    clear: right;
-    padding-top: 2em;
+    clear: left;
     width: 75%;
     float: left;
     column-count: 3;
