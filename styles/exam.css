@@ -35,12 +35,14 @@ body {
     box-shadow: 5px 5px 0 0;
 }
 nav{
-    border-top: 3px solid blue;
+    border-bottom: 3px solid blue;
+    padding-bottom: 3em;
+    
 }
 
 article {
     clear: left;
-    padding-top: 5em;
+    padding-top: 3em;
     width: 75%;
 }
 article h1{
