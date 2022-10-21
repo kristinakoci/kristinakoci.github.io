@@ -51,6 +51,10 @@ article {
     column-gap: 2em;
     margin-left: 2em;
 }
+
+article p.indent {
+    float: left;
+}
 article h1{
     column-span: all;
     padding-top: 1em;
