@@ -14,6 +14,10 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
+ol {list-style-type: upper-roman;}
+ul {list-style-type: square;}
+
+
 html{
     background-image:linear-gradient(to left, white 0%, #9bddf4 100%);
 }
@@ -48,7 +52,5 @@ article p::first-letter{
     color: black;
 }
 
-ol {list-style-type: upper-roman;}
-ul {list-style-type: square;}
 
 
