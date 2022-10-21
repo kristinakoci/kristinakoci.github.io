@@ -27,7 +27,6 @@ body {
     font-size: 100%;
     width: 95%;
     margin: 15px auto;
-    border-bottom: 2px solid blue;
     padding-bottom: 3em;
     background-color: white; 
     margin: 15px auto;
@@ -39,8 +38,9 @@ body {
 
 article {
     clear: left;
-    padding-top: 1em;
+    padding-top: 3em;
     width: 75%;
+    border-top: 3px solid blue;
 }
 img{
     float: left;
@@ -51,7 +51,7 @@ article{
     width: 70%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted blue;
+    column-rule: 3px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
 }
