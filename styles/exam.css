@@ -55,7 +55,6 @@ article p.indent {
     float: left;
 }
 article h1{
-    column-span: all;
     padding-top: 1em;
     padding-bottom: 2em;
 }
@@ -63,13 +62,13 @@ article h1{
 article h1{
     font-size: 175%;
     color: blue;
-    text-indent: 30px;
+    
 }
 
 article h2{
     font-size: 175%;
     color: blue;
-    text-indent: 30px;
+    
 }
 img{
     float: left;
