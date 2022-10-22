@@ -42,7 +42,10 @@ nav{
 }
 
 article {
-    clear: right;
+    clear:right;
+}
+
+article {
     padding-top: 3em;
     width: 75%;
     float: left;
