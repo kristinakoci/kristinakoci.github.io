@@ -46,7 +46,7 @@ article h1 {
 }
 
 article {
-    padding-top: 3em;
+    padding-top: 0.5em;
     width: 75%;
     float: left;
     column-count: 3;
