@@ -90,7 +90,7 @@ article p::first-letter{
 
 aside{
     width: 20%;
-    padding: 2em 2em 2em;
+    padding: 1em 1em 1em;
     background-color: #9bddf4;
     border: 3px solid blue;
     position: fixed;
