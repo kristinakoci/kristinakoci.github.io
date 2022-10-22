@@ -64,6 +64,11 @@ article h1{
     padding-bottom: 1em;
 }
 
+article h2{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
 article h1{
     font-size: 175%;
     color: blue;
