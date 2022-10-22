@@ -71,6 +71,10 @@ article h1{
 }
 
 article h2{
+    display: block;
+}
+
+article h2{
     font-size: 175%;
     color: blue;
     text-indent: 30px;
