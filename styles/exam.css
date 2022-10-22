@@ -27,7 +27,7 @@ body {
     font-size: 100%;
     width: 95%;
     margin: 15px auto;
-    padding-bottom: 0.3em;
+    padding-bottom: 3em;
     background-color: white; 
     margin: 15px auto;
     padding: 15px 1.5rem;
@@ -42,7 +42,8 @@ nav{
 }
 
 article {
-    clear: left;
+    clear: right;
+    padding-top: 3em;
     width: 75%;
     float: left;
     column-count: 3;
@@ -50,24 +51,26 @@ article {
     column-gap: 2em;
     margin-left: 2em;
 }
+
 article p.indent {
     float: left;
 }
 article h1{
+    column-span: all;
     padding-top: 1em;
     padding-bottom: 2em;
 }
 
-article h1{
+header h1{
     font-size: 175%;
     color: blue;
-    
+    text-indent: 30px;
 }
 
-article h2{
+header h2{
     font-size: 175%;
     color: blue;
-    
+    text-indent: 30px;
 }
 img{
     float: left;
@@ -84,7 +87,7 @@ article p::first-letter{
 
 aside{
     width: 20%;
-    padding: 0.2em 0.2em 0.2em;
+    padding: 2em 2em 2em;
     background-color: #9bddf4;
     border: 3px solid blue;
     position: fixed;
