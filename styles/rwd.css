@@ -108,4 +108,10 @@ html, body {
         font-size: 1em;
     }
 
-    
+    img {
+        margin: auto;
+        display: block;
+        width: 100%;
+        max-width: 760px;
+    }
+
