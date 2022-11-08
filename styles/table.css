@@ -42,13 +42,13 @@ html, body {
 
     table.third thead tr:first-child { 
         border-top: 2px solid orangered; 
-        background-color: rgb(120, 183, 26);
+        background-color: rgb(102, 218, 112);
         border-bottom: 2px solid orangered;
     }
 
     table.third thead tr:nth-child(2) {
         border-bottom: 2px solid orangered;
-        background-color: rgb(120, 183, 26);
+        background-color: rgb(102, 218, 112);
     }
 
     table.third thead tr:last-child {
