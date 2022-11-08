@@ -36,12 +36,13 @@ html, body {
     table.third th, table.third td{
         border-collapse: collapse;
         vertical-align: top;
+        padding: 0.5em;
     }
    
 
     table.third thead tr:first-child { 
         border-top: 2px solid orangered; 
-        background-color: greenyellow;
+        background-color: rgb(120, 183, 26);
         border-bottom: 2px solid orangered;
     }
             
