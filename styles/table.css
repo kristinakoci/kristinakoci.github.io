@@ -45,4 +45,13 @@ html, body {
         background-color: rgb(120, 183, 26);
         border-bottom: 2px solid orangered;
     }
+
+    table.third thead tr:nth-child(2) {
+        border-bottom: 2px solid orangered;
+        background-color: rgb(120, 183, 26);
+    }
+
+    table.third thead tr:last-child {
+        border-bottom: 2px solid orangered;
+    }
             
