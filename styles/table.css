@@ -53,7 +53,7 @@ html, body {
         background-color: lightgreen;
     }
 
-    table.third thead tr:last-child {
+    table.third tr:last-child {
         border-bottom: 2px solid orangered;
     }
            
