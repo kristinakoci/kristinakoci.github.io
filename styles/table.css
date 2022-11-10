@@ -50,6 +50,7 @@ html, body {
 
     table.third thead tr:nth-child(2) {
         border-bottom: 2px solid orangered;
+        background-color: lightgreen;
     }
 
     table.third thead tr:last-child {
