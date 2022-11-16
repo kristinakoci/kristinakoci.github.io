@@ -48,11 +48,29 @@
                 pattern="\d{3}[\-]\d{3}[\-]\d{4}" 
                 title="Must be 999-999-999 format"
                 autocomplete="on"><br>
-        </fieldset>
-    
-
+        </fieldset>    
     </form>
 
+    <form action="membership_information.html" method="post" id="membership_information_form">
+        <fieldset>
+            <legend>Membership Information</legend>
+            <label for="membership_type">Membership Type:</label>
+            Membership Type:<br>
+            <select id="membership_type">
+                <optgroup label="Junior">
+                    <option value="junior">Junior</option>
+                    <option value="regular">Regular</option>
+                    <option value="charter">Charter</option>
+                </optgroup>
+                
+                
+
+
+
+            </select>
+        </fieldset>
+
+    </form>
 
 </body>
 </html>
