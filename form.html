@@ -54,13 +54,11 @@
     <form action="membership_information.html" method="post" id="membership_information_form">
         <fieldset>
             <legend>Membership Information</legend>
-            Membership Type:<br>
-            <select id="membership_type">
-                <optgroup label="Junior">
-                    <option value="j">Junior</option>
-                    <option value="r">Regular</option>
-                    <option value="c">Charter</option>
-                </optgroup>
+            <label for="membership_type">Membership Type:</label>
+            <select name= "membership_type" id="membership_type">
+                 <option value="j">Junior</option>
+                 <option value="r">Regular</option>
+                 <option value="c">Charter</option>
             </select><br>
             <label for="starting_date">Starting Date:</label>
              <input type="date" name="starting_date" id="starting_date"
